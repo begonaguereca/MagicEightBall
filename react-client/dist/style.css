@@ -1,0 +1,35 @@
+body {
+  background-image: url('https://wallscover.com/images/blue-5.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+
+h1 {
+  color: black;
+  text-align: center;
+  font-weight: normal;
+  color: #fff;
+  font-size: 100px;
+  white-space: nowrap;
+  z-index: 1000;
+  font-family: 'Bangers', cursive;
+  text-shadow: 5px 5px 0 rgba(0, 0, 0, 0.7);
+}
+
+@media screen and (max-width: 50em) {
+  h1 {
+    font-size: 20vw;
+   }
+}
+
+.phone {
+  padding: 20px;
+  color: white
+}
+
+
+.magicBall {
+  margin: auto;
+  width: 30%;
+}

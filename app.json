@@ -1,0 +1,8 @@
+{
+  "name": "Guereca Magic 8 Ball",
+  "description": "Begona Guereca using Twilio to make a Magic 8 Ball",
+  "repository": "https://github.com/begonaguereca/MagicEightBall.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
